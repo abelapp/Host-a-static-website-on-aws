@@ -1,3 +1,5 @@
+![Alt text](/Architectural-Diagram.drawio.svg) 
+
 ---
 # Hosting a Static HTML Website on AWS
 
